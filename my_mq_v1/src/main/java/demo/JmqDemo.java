@@ -32,6 +32,7 @@ public class JmqDemo {
         }
         Thread.sleep(500);
 
+
         //consumer订阅topic
         JmqConsumer consumer = broker.createConsumer();
         consumer.subscribe(topic);
