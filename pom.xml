@@ -14,9 +14,9 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>jvm_mq</module>
-        <module>ons_mq_v1</module>
-        <module>ons_mq_v2</module>
+        <module>my_mq_v1</module>
+        <module>my_mq_v2</module>
+        <module>my_mq_v3</module>
     </modules>
     <dependencies>
         <dependency>
